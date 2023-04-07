@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "express": "^4.18.2",
-    "mysql": "^2.18.1"
+    "mongoose": "^7.0.3",
+    "mysql": "^2.18.1",
+    "passport-local-mongoose": "^8.0.0"
   }
 }
